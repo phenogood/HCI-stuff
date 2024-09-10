@@ -1,0 +1,10 @@
+body {background-color:brown}
+
+h1   {font-family:Georgia, 'Times New Roman', Times, serif;
+        color:rgb(194, 152, 107)}
+
+h2, h4 {font-family:'Courier New', Courier, monospace;
+            color:rgb(250, 235, 214)}
+
+h6   {font-family:'Courier New', Courier, monospace;
+        color:rgb(255, 255, 255)}
